@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CyberChaseO
-- 👀 I’m interested in software engineering full-stack
-- 🌱 I’m currently learning the fundamentals to be a full stack dev
+- 👋 Hi, I’m Omar
+- 👀 Im interested all things software, but my main focus is on front-end development  
+- 🌱 The languages im currently studying is HTML, CSS and javascript. SQL is my next focus for Data Analytics
 - 💞️ I’m looking to collaborate on software development projects and any debugging or projects to gain skill
 - 📫 You can reach me on Discord GigmanO or lewisquentel@gmail.com or Slickmeezy on all social media platforms 
 
